@@ -1,0 +1,126 @@
+.sidebar {
+    width: 670px;
+    border-right: 3px solid #333333;
+}
+.content {
+    background: #333333;
+    padding: 10px;
+    color: #cccccc;
+    border: 23px solid #cccccc;
+}
+.trial{
+    height: 60px;
+    display: flex;
+    background: #ccc;
+    line-height:17px;
+    justify-content: space-between;
+    align-items:center;
+    padding: 5px 15px;
+}
+.trialInfo{
+	margin-bottom: 0;
+    padding-left: 22px;
+    font-size: 15px;
+}
+.trialBtn{
+   height: 58%;
+   justify-content: center;
+   margin-right:12px;
+   background: #ff8f00ab;
+   border-radius:5px;
+}
+.seasonHeader {
+    background-color: #333;
+    color: #cccccc;
+}
+ul.headerListItems {
+    margin: 0px;
+    display: flex;
+    list-style-type: none;
+    padding: 5px 25px;
+    font-size: 13px;
+}
+li.headerListItem {
+    margin-right: 18px;
+}
+.season {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+.seasonLogo{
+	padding: 17px;
+}
+.AboutSeason{
+    line-height: 23px;
+}
+.seasonName{
+	font-size: 33px;
+	color: white;
+}
+ul.seasonType {
+    display: flex;
+    list-style-type: none;
+    padding: 0px;
+    margin-bottom: 0px;
+    font-size: 13px;
+}
+.seasonType>li{
+	margin-right: 20px;
+}
+.episodeGuide {
+    background: #333333;
+    color: #cccccc;
+    border-top: 1px solid #9e9e9e6b;
+    border-bottom: 1px solid #9e9e9ed9;
+}
+.trailer{
+	display:flex;
+}
+.trailerImage {
+    border-right: 11px solid #333333;
+}
+.seasonDetail {
+    background-color: #cccccc;
+}
+.trendingMovie {
+	display:flex;
+    background: #191919;
+    border-bottom: 5px solid #333333;
+    font-size:13px;
+    align-items:center;
+}
+.trendingMovieNo{
+   margin-left: 13px;
+}
+.trendingMovieName{
+    margin-left: 13px;
+}
+.trendingMoviePercentage{
+	margin-left: auto;
+}
+.aboutSeason{
+    font-size: 15px;
+    line-height: 20px;
+    padding: 13px 25px;
+}
+.stars{
+	padding: 0px 25px;
+	font-size: 15px;
+}
+.watchlistButton{
+    padding: 11px 26px;
+}
+.watchlistBtn{
+    width: 245px;
+    padding: 6px;
+    color: white;
+    background: #2196F3;
+    border: none;
+    border-radius: 3px;
+}
+.companyInfo {
+    padding: 10px 25px;
+    border-top: 1px solid #607d8b7d;
+    border-bottom: 1px solid white;
+}
